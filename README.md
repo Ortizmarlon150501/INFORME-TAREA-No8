@@ -7,7 +7,7 @@
 
 # Objetivo Especifico:
 
-• * Definir los conceptos de potenciación, los factores primos y de la notación científica.
+• *Definir los conceptos de potenciación, los factores primos y de la notación científica.
 
 • Establecer las características de las operaciones matemáticas, como son la potenciación y sus propiedades, los factores primos y la notación científica.
 
