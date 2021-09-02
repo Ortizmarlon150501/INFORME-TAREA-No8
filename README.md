@@ -433,7 +433,8 @@ https://youtu.be/TP5k4f29O8c
 
 • Dentro de los fundamentos de corriente alterna se puede analizar con varios conceptos el comportamiento de la misma, estos conceptos son la frecuencia, periodo, amplitud y valor pico de la onda que genera la corriente aterna,se puede asociar los conceptos de voltaje y intensidad.
 
-• La energía eléctrica tiene una gran importancia en el desarrollo de la sociedad, su uso hace posible la automatización de la producción que aumenta la productividad y mejora las condiciones de vida del hombre.
+• • Tomando en cuenta que en la corriente artena los elementos como resistencia, inductancia y capacitores tienes los mismo conceptos que maneja en la corriente continua o directa se puede observar el comportamiento relacionando una onda  que va a genera al trabajar con corriente alterna
+
 
 # Bibliografia
 Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
