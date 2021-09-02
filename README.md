@@ -173,6 +173,8 @@ d.-10-j4
 
 ![image](https://user-images.githubusercontent.com/84587118/131782146-a9b5ff16-34ac-4a11-b2e3-40768605aa40.png)
 
+11. Repita el problema 10 para v =e1 - e2.
+
 ![image](https://user-images.githubusercontent.com/84587118/131782156-fe751b1d-297c-42d7-81a7-7a0c6dd23b0a.png)
 
 ![image](https://user-images.githubusercontent.com/84587118/131782215-336131d0-86ab-4cf9-ae6e-0988b372e950.png)
