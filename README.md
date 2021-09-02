@@ -57,10 +57,59 @@ Cap 15
 
 
 15-8 Formas de onda de ca y valor promedio
+
 47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
 
 
 ![image](https://user-images.githubusercontent.com/84412132/131767759-6911bfba-5ab8-4901-ba91-51f45812a9be.png)
+
+
+49. Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+
+![image](https://user-images.githubusercontent.com/84412132/131768102-4bf10e52-114b-4379-85d4-cb71a95db4d1.png)
+
+51. Para el circuito de la figura 15-90, e = 25 sen wt V y un periodo de T = 120ms.
+a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
+b. Determine los voltajes pico y mínimo.
+c. Calcule v cuando t = 10, 20, 70 y 100 ms.
+d. Determine Vprom.
+
+![image](https://user-images.githubusercontent.com/84412132/131768192-534a9557-f4cf-43bb-a7eb-f7218e302af8.png)
+
+53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
+
+![image](https://user-images.githubusercontent.com/84412132/131768236-36e22ec5-c778-48fc-ba0c-ea4114062012.png)
+
+55. Determine los valores rms para cada uno de los siguientes casos:
+a. Una batería de 12V
+b. -24 sen(wt + 73º) mA
+c. 10 + 24sen wt V
+d. 45 – 27 cos 2 wt V
+
+![image](https://user-images.githubusercontent.com/84412132/131768358-d37bf1e4-e060-4976-930c-003cf7cb74e9.png)
+
+
+57. Determine los valores de la raíz cuadrática media para
+a. i=3+√2 (4)sen(wt+44º)mA
+b. Voltaje v de la figura 15-92
+
+![image](https://user-images.githubusercontent.com/84412132/131768441-6fcdf250-63d9-4b99-9c0e-9ab25803c489.png)
+
+![image](https://user-images.githubusercontent.com/84412132/131768463-feb2280a-4983-404e-961f-edb80931ca98.png)
+
+
+59. Calcule los valores rms para las formas de onda de la figura 15-92.
+
+![image](https://user-images.githubusercontent.com/84412132/131768554-fe35ece0-bb8d-49d6-b5d4-9c21f276c561.png)
+
+
+61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+
+![image](https://user-images.githubusercontent.com/84412132/131768622-366ba6af-635f-4983-9806-e111a71133d1.png)
+
+16-1 Repaso de números complejos
+1. Convierta cada uno de los siguientes números a forma polar:
+
 
 
 
