@@ -9,7 +9,7 @@
 
 • Definir los fundamentos de corriente alterna, que se relaciona con los conceptos de una onda senoidal, tomando en cuenta el voltaje, intensidad, frecuencia , periodo, amplitud y valores pico. 
 
-• Establecer las características de las operaciones matemáticas, como son la potenciación y sus propiedades, los factores primos y la notación científica.
+• Comprender los conceptos como lo de numero complejos que se relacionan con los elementos de resistencia, inductancias y capacitores con respecto a la corriente continua y su comportamiento en la onda sinusoidal.
 
 
 # Marco Teorico
