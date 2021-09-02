@@ -119,6 +119,9 @@ f. 620°
 
 ![image](https://user-images.githubusercontent.com/84585835/131864825-1089a6ae-b305-42b9-a36e-92c9a54264f2.png)
 
+![image](https://user-images.githubusercontent.com/84585835/131872697-a775d19f-c77a-4902-806f-60d2f084c38e.png)
+
+
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 μs. Determine Vm y dibuje la forma de onda.
 
 ![image](https://user-images.githubusercontent.com/84585835/131864871-2392a146-99c0-4998-8aa9-90fa434d94c3.png)
