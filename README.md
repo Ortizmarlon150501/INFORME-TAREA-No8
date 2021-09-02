@@ -107,9 +107,23 @@ b. Voltaje v de la figura 15-92
 
 ![image](https://user-images.githubusercontent.com/84412132/131768622-366ba6af-635f-4983-9806-e111a71133d1.png)
 
+
+Cap 16
+
+
 16-1 Repaso de números complejos
 1. Convierta cada uno de los siguientes números a forma polar:
 
+
+a.5+j12
+b.9-j6
+c.-8+j15
+d.-10-j4
+
+
+![image](https://user-images.githubusercontent.com/84412132/131770821-ecbf106c-be75-4d42-bed7-fed0505e44a8.png)
+
+![image](https://user-images.githubusercontent.com/84412132/131770853-a372386d-d77f-46a9-9471-740ca36817c2.png)
 
 
 
