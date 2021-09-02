@@ -213,6 +213,80 @@ a. ¿Cuánto valen vR1 y vR2?
 ![image](https://user-images.githubusercontent.com/84587118/131782446-6feb543b-a734-4e25-bde3-799e520ce68b.png)
 
 
+21.- Para la figura 16-53, Vm = 10 V e Im =  5 A. Para cada expresión, determine la
+cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/84587118/131859630-3bc4b2a2-5d0b-4768-9439-36b46573f334.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131859677-b45b6d96-c094-4fa5-8ccf-ed28c025a281.png)
+
+
+
+23.- Para la figura 16-53, e=100sen(ωt)y L=0.5H. Determine i_L a. . 
+
+
+![image](https://user-images.githubusercontent.com/84587118/131859711-1cdb0ef1-eaaf-4cf3-a8f5-9cf367eba6d5.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860178-462823c6-4f49-4576-a5cd-44806125afce.png)
+
+
+25.- Para la figura 16-53, si
+
+![image](https://user-images.githubusercontent.com/84587118/131860270-18e738c6-3807-4522-a61a-a58c4e7a35d4.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131860335-8c4009f4-e841-4040-9fe2-9049fb4b80ac.png)
+
+
+27.- ¿Cuál es la reactancia de un capacitor de 5 uF a. . .
+
+![image](https://user-images.githubusercontent.com/84587118/131860399-1c417bb9-bd32-4d33-855b-2b082a01fe71.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860431-b3d85919-67c1-4bbc-a81e-4c21b3fdf2f9.png)
+
+
+
+29.- Para la figura 16-54, C =50 uF. 
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860759-112270ea-8a47-4196-b311-54fd0bcfc880.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860819-7add883e-7b52-498f-823a-29afd890851f.png)
+
+
+16-7 El concepto de impedancia
+
+31.- Determine la impedancia de cada elemento de circuito de la figura 16-55.
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860883-a754c887-a7ed-4627-ac89-543d1ff52ef4.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860947-7c39ec46-5502-4ac5-80eb-3b84ce306eff.png)
+
+
+33.- Si la corriente a través de cada elemento de circuito de la figura 16-56 es 
+0.5 A∠0°:
+
+
+![image](https://user-images.githubusercontent.com/84587118/131860993-d302754e-a667-47a6-ab2b-354870a51fc2.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131861042-23614d34-f304-4d2c-a690-3b33f68f2173.png)
+
+
+35. Para cada circuito de la figura 16-57 determine la incógnita.
+
+![image](https://user-images.githubusercontent.com/84587118/131861082-6fcdf102-ef11-46de-a25c-6afa86e40990.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131861126-fb602c9e-f281-4f30-b466-89a3d9b128f0.png)
+
+
+
 
 
 
