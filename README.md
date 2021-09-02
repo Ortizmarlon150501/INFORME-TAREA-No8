@@ -158,7 +158,8 @@ d.-10-j4
 7. Reduzca cada corriente siguiente a forma polar: 
 
 
-![image](https://user-images.githubusercontent.com/84587118/131782026-ed96e286-a073-4dfa-8e0b-53e77cce1954.png)
+![image](https://user-images.githubusercontent.com/84587118/131782903-9cf103c9-08b8-469a-96e7-fa04c0b21a86.png)
+
 
 ![image](https://user-images.githubusercontent.com/84587118/131782039-258457d8-5150-4456-a596-448d2270f7ff.png)
 
