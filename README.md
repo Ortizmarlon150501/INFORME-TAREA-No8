@@ -140,6 +140,7 @@ b. f = 30 Hz
 c. 100 ciclos en 4 s
 
 
+![image](https://user-images.githubusercontent.com/84585835/131868706-fcf93277-cfda-4aca-9f9e-8b87f4766d92.png)
 
 d. periodo = 20 ms 
 
