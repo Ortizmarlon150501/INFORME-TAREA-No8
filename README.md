@@ -155,6 +155,8 @@ d.-10-j4
 
 ![image](https://user-images.githubusercontent.com/84587118/131781989-f793a6c5-ab4b-4af6-af9c-9c5d6bcea86a.png)
 
+7. Reduzca cada corriente siguiente a forma polar: 
+
 
 ![image](https://user-images.githubusercontent.com/84587118/131782026-ed96e286-a073-4dfa-8e0b-53e77cce1954.png)
 
