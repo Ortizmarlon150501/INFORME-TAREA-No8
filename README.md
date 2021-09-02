@@ -7,7 +7,7 @@
 
 # Objetivo Especifico:
 
-• *Definir los conceptos de potenciación, los factores primos y de la notación científica.
+• Definir los conceptos de potenciación, los factores primos y de la notación científica.
 
 • Establecer las características de las operaciones matemáticas, como son la potenciación y sus propiedades, los factores primos y la notación científica.
 
@@ -28,7 +28,139 @@
 
 Cap 15 
 
+15-2 Introducion
 
+1.- ¿A qué se refiere “voltaje de ca” y “corriente de ca”?
+
+El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
+
+15-2 Generación de voltajes de ca
+
+3. a. ¿Qué significa valor instantáneo? 
+
+
+La magnitud de una forma de onda (tal como voltaje o corriente) en cualquier instante
+
+b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+ 
+![image](https://user-images.githubusercontent.com/84585835/131863466-64621d0e-64ad-471c-a707-c1885759d5ae.png)
+
+15-3 Convenciones de voltaje y corriente para ca
+
+5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+![image](https://user-images.githubusercontent.com/84585835/131863614-5e710abb-a337-41bf-bcfa-3d2dd7a827d1.png)
+
+![image](https://user-images.githubusercontent.com/84585835/131863694-a3c61748-6ee6-4564-9bef-4fabf7455504.png)
+
+15-4 Frecuencia, periodo, amplitud y valor pico
+
+7. Para cada uno de los siguientes, determine la frecuencia: 
+
+![image](https://user-images.githubusercontent.com/84585835/131863790-fc3dbf1d-3ad6-4573-a61c-925d54277232.png)
+
+9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
+
+![image](https://user-images.githubusercontent.com/84585835/131863894-fe741228-1352-450e-96ed-5bc52ec7c76d.png)
+
+11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
+
+![image](https://user-images.githubusercontent.com/84585835/131863967-02bea565-6d7f-4b3d-8e43-f3663e1012ad.png)
+
+![image](https://user-images.githubusercontent.com/84585835/131864005-fb04bb85-0575-4e96-bd56-fe1fe7840889.png)
+
+13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+![image](https://user-images.githubusercontent.com/84585835/131864118-e337fd20-6c51-4139-beeb-d1ca4521e1b9.png)
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![image](https://user-images.githubusercontent.com/84585835/131864207-36bce5bd-c6ab-48ea-bae5-fa5447264075.png)
+
+15-5 Relaciones angular y gráfica paras las ondas seno
+
+17. Dado el voltaje v = Vm*sen (α). Si Vm = 240 V, ¿qué valor tiene v cuando α = 37°?
+
+![image](https://user-images.githubusercontent.com/84585835/131864293-a70d090b-094c-44e1-ae95-c170931e28b4.png)
+
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando α = 150°. ¿Qué valor tiene Vm?
+
+![image](https://user-images.githubusercontent.com/84585835/131864401-9d6db63b-cc40-43ed-b51d-26c46741b9c5.png)
+
+21. Convierta los siguientes ángulos de grados a radianes: 
+
+
+a. 10°
+
+![image](https://user-images.githubusercontent.com/84585835/131864452-d26c1025-5cf9-4d50-a7e9-60777343ea1a.png)
+
+b. 25°
+
+![image](https://user-images.githubusercontent.com/84585835/131864515-b61448f5-15b0-40b8-94e0-66597802de31.png)
+
+c. 80°
+
+![image](https://user-images.githubusercontent.com/84585835/131864579-73bf0acf-c580-427d-b05a-c9127631d888.png)
+
+d. 150°
+
+![image](https://user-images.githubusercontent.com/84585835/131864717-2dddedbb-0f2c-429b-8155-b442e698214b.png)
+
+e. 350° 
+
+![image](https://user-images.githubusercontent.com/84585835/131864756-fda8f76a-49b3-43de-b687-93f1ebf762a7.png)
+
+f. 620°
+
+![image](https://user-images.githubusercontent.com/84585835/131864784-99dc9f5e-9fa3-4424-aa6c-7b16fb4f4b3b.png)
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms
+
+![image](https://user-images.githubusercontent.com/84585835/131864825-1089a6ae-b305-42b9-a36e-92c9a54264f2.png)
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 μs. Determine Vm y dibuje la forma de onda.
+
+![image](https://user-images.githubusercontent.com/84585835/131864871-2392a146-99c0-4998-8aa9-90fa434d94c3.png)
+
+
+15-6 Voltajes y corrientes como funciones del tiempo.
+
+ 27. Calcule ω en radianes por segundo para cada uno de los siguientes casos: 
+
+
+a. T = 100 ns 
+
+![image](https://user-images.githubusercontent.com/84585835/131864957-f463fee7-5f04-4917-abb6-281665866845.png)
+
+b. f = 30 Hz
+
+![image](https://user-images.githubusercontent.com/84585835/131865142-01aaf054-1ee8-41b7-9a62-46f18a2d1e83.png)
+
+c. 100 ciclos en 4 s
+
+
+
+d. periodo = 20 ms 
+
+![image](https://user-images.githubusercontent.com/84585835/131865179-7f27ea20-0182-4100-97d2-32680ea2cd50.png)
+
+e. 5 periodos en 20 ms
+
+![image](https://user-images.githubusercontent.com/84585835/131865202-3271ed9d-f5c0-4efa-a5ce-138c0567c1de.png)
+
+
+29. Determine las ecuaciones para las ondas seno con lo siguiente: 
+
+![image](https://user-images.githubusercontent.com/84585835/131865395-0fb0b60e-0a18-49f9-b56d-e5f7a02fa656.png)
+
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
+
+![image](https://user-images.githubusercontent.com/84585835/131865473-8e35d884-cbf5-4128-a4de-2dd1a9ae7295.png)
+
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 μs
+
+![image](https://user-images.githubusercontent.com/84585835/131865542-753acb44-ac4a-436b-80c8-fa8ce397006c.png)
 
 35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.
 
