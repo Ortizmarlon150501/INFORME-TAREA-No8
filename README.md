@@ -13,10 +13,13 @@ Objetivo Especifico:
 
 Marco Teorico
 
-Cap 15 
+# Cap 15
 
 ![image](https://user-images.githubusercontent.com/84412132/131767219-44e4d140-9ec8-411e-9a64-7215f8222fb9.png)
 
+# Cap 16 
+
+![image](https://user-images.githubusercontent.com/84587118/131781677-64dddbe8-e001-489c-a2db-df46bb2ba7eb.png)
 
 
 Explicacion y resolucion de ejercicios o problemas
@@ -124,6 +127,79 @@ d.-10-j4
 ![image](https://user-images.githubusercontent.com/84412132/131770821-ecbf106c-be75-4d42-bed7-fed0505e44a8.png)
 
 ![image](https://user-images.githubusercontent.com/84412132/131770853-a372386d-d77f-46a9-9471-740ca36817c2.png)
+
+
+3. Grafique cada uno de los siguientes números a forma rectangular:
+
+![image](https://user-images.githubusercontent.com/84587118/131781730-d0a74b32-90a9-4b0c-8304-c2e359a11ba4.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131781757-c946acf3-5148-46c9-bf7e-d21beeb0642b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131781780-0bc3ed71-a462-46d8-8831-9d49d1cbc3e6.png)
+
+
+5. Exprese sus respuestas en forma rectangular 
+
+![image](https://user-images.githubusercontent.com/84587118/131781910-7ebe7e53-0950-4b9c-8655-49b50aaf9f68.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131781925-f07d9f80-4c1b-4254-adbc-42d79660c506.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131781958-b1bf0019-bf86-4a55-baa1-f181ecb4838b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131781978-902e1ac5-054d-4389-b2c5-8daf2b36e770.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131781989-f793a6c5-ab4b-4af6-af9c-9c5d6bcea86a.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131782026-ed96e286-a073-4dfa-8e0b-53e77cce1954.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782039-258457d8-5150-4456-a596-448d2270f7ff.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782055-884a7518-c5f1-45e6-9da7-39bfad78a9fe.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782068-55e9dcaf-7231-4c68-881a-3b3dd7ffafb1.png)
+
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+![image](https://user-images.githubusercontent.com/84587118/131782107-19710d87-e266-4948-8371-98e3bfce316b.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782146-a9b5ff16-34ac-4a11-b2e3-40768605aa40.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782156-fe751b1d-297c-42d7-81a7-7a0c6dd23b0a.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782215-336131d0-86ab-4cf9-ae6e-0988b372e950.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782286-8c419dcb-67a6-422f-b800-1b1f3d959327.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131782293-b2fce7fa-10a2-4119-9e0b-256756af3a61.png)
+
+15. Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90) mA e i3 = 6 sen (wt - 90) mA.
+
+![image](https://user-images.githubusercontent.com/84587118/131782319-105fb2f8-0b8d-4d80-a83a-16d2a9d3d4c3.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131782360-760a000c-ca3d-450f-8297-765e11dd86e6.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/131782381-f15f2742-5cfc-464e-9456-9de4e25ef007.png)
+
+
+17.. Para la figura 16-52, R =12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje 
+
+![image](https://user-images.githubusercontent.com/84587118/131782416-1cd2f3e9-691d-4731-ad14-66152c068a1c.png)
+
+
+19. Dos resistores R1 = 10 kΩ y R2 =12.5 kΩ están en serie. Si i = 14.7 sen (wt + 39) mA, 
+a. ¿Cuánto valen vR1 y vR2?
+
+
+![image](https://user-images.githubusercontent.com/84587118/131782446-6feb543b-a734-4e25-bde3-799e520ce68b.png)
+
 
 
 
