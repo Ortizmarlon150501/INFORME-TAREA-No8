@@ -13,6 +13,12 @@ Objetivo Especifico:
 
 Marco Teorico
 
+Cap 15 
+
+![image](https://user-images.githubusercontent.com/84412132/131767219-44e4d140-9ec8-411e-9a64-7215f8222fb9.png)
+
+
+
 Explicacion y resolucion de ejercicios o problemas
 
 Video
