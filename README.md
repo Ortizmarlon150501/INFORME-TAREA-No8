@@ -50,6 +50,19 @@ Cap 15
 ![image](https://user-images.githubusercontent.com/84412132/131767647-d9210e5e-29ea-46af-8678-b4123c6f7bf7.png)
 
 
+45.  Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda esta adelantada?
+
+![image](https://user-images.githubusercontent.com/84412132/131767706-4dbb20fc-c704-43e7-83fb-aefdc5719f17.png)
+
+
+
+15-8 Formas de onda de ca y valor promedio
+47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+
+![image](https://user-images.githubusercontent.com/84412132/131767759-6911bfba-5ab8-4901-ba91-51f45812a9be.png)
+
+
 
 
 Video
