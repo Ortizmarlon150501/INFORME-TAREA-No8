@@ -430,7 +430,8 @@ cantidad solicitada.
 https://youtu.be/TP5k4f29O8c
 
 # Conclusiones
-• La energia electrica es el resultado del producto de la potencia electrica medida en Kilowatts y el tiempo medido en horas , el cual puede tomar un costo monetaario y ahora tenemos una guia de como funciona el financiamiento de proyectos que utilizar energia
+
+• Dentro de los fundamentos de corriente alterna se puede analizar con varios conceptos el comportamiento de la misma, estos conceptos son la frecuencia, periodo, amplitud y valor pico de la onda que genera la corriente aterna,se puede asociar los conceptos de voltaje y intensidad.
 
 • La energía eléctrica tiene una gran importancia en el desarrollo de la sociedad, su uso hace posible la automatización de la producción que aumenta la productividad y mejora las condiciones de vida del hombre.
 
