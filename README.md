@@ -173,13 +173,18 @@ d.-10-j4
 
 ![image](https://user-images.githubusercontent.com/84587118/131782146-a9b5ff16-34ac-4a11-b2e3-40768605aa40.png)
 
-11. Repita el problema 10 para v =e1 - e2.
 
 ![image](https://user-images.githubusercontent.com/84587118/131782156-fe751b1d-297c-42d7-81a7-7a0c6dd23b0a.png)
 
-![image](https://user-images.githubusercontent.com/84587118/131782215-336131d0-86ab-4cf9-ae6e-0988b372e950.png)
+11. Repita el problema 10 para v =e1 - e2.
 
-![image](https://user-images.githubusercontent.com/84587118/131782286-8c419dcb-67a6-422f-b800-1b1f3d959327.png)
+
+![image](https://user-images.githubusercontent.com/84587118/131783105-6ea71761-9375-45ce-b31a-0bc0d0bb2c01.png)
+
+13. Para la figura 16-50, i1 =25 sen (wt +36^0) mA e i2 = 40 cos (2t -10^0) mA. 
+
+![image](https://user-images.githubusercontent.com/84587118/131783172-6bf33cbc-9c4f-4a45-bcc3-df998852a0b9.png)
+
 
 ![image](https://user-images.githubusercontent.com/84587118/131782293-b2fce7fa-10a2-4119-9e0b-256756af3a61.png)
 
