@@ -1,11 +1,11 @@
 # INFORME-TAREA-No8
 
 
-#Objetivo General:
+# Objetivo General:
 
 • Determinar la relacion que exite entre la energia y la potencia, por medio del plateamiento y desarrollo de ejercicios en los cuales se evaluara los conceptos basicos y fundamentales repasados en los capitulos, asociando las formulas planteadas para la resolucion de los problemas y dar una idea mas clara del uso que se da a la energia y potencia en el ambito profesional
 
-#Objetivo Especifico:
+# Objetivo Especifico:
 
 • Definir los conceptos de potenciación, los factores primos y de la notación científica.
 
